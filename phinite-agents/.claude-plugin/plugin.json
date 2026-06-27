@@ -1,0 +1,8 @@
+{
+  "name": "phinite-agents",
+  "version": "1.0.0",
+  "description": "Connect Claude to the Phinite platform — discover and invoke published agents. Sign in with your Phinite account (OAuth).",
+  "author": {
+    "name": "Phinite"
+  }
+}
